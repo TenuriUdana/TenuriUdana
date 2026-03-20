@@ -3,11 +3,10 @@
 ## 👨🏻‍💻 About Me
 
 * 🤔 Exploring new technologies and building scalable software solutions.
-* 🎓 Final-year Computer Science undergraduate (University of Westminster – via IIT).
+* 🎓 Final-year Computer Science undergraduate (University of Westminster).
 * 💼 Working as an Associate Software Engineer.
 * 🌱 Learning more about Cloud, DevOps, and system reliability.
 * 💫 Interested in building reliable enterprise systems and improving user experiences.
-* ✍️ [Add something personal like hobbies / side hustle]
 
 ---
 
@@ -52,7 +51,6 @@
 
 ## 💫 What I'm Working On
 
-* 🚀 [Add your current project like KuppiyaAI]
 * 🧠 Exploring AI + real-world problem solving
 * ⚙️ Improving system reliability & performance in enterprise apps
 
@@ -60,9 +58,9 @@
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: [Add your link]
-* 📧 Email: [Add your email]
-* 🌐 Portfolio: [Optional]
+* 💼 LinkedIn: https://www.linkedin.com/in/tenuri-wickramaarachchi-ab8792256
+* 📧 Email: tenuriw2002@gmail.com
+* 🌐 Portfolio: 
 
 ---
 
