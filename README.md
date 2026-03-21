@@ -60,7 +60,7 @@
 
 * 💼 LinkedIn: https://www.linkedin.com/in/tenuri-wickramaarachchi-ab8792256
 * 📧 Email: tenuriw2002@gmail.com
-* 🌐 Portfolio: 
+* 🌐 Portfolio: https://myportfolio-t3gw.vercel.app/
 
 ---
 
